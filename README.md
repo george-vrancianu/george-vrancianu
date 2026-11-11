@@ -110,7 +110,7 @@ const george: ProductDeveloper = {
       <img src="./assets/badges/nestjs.svg" alt="NestJS" height="32">
       <img src="./assets/badges/postgresql.svg" alt="PostgreSQL" height="32">
       <img src="./assets/badges/openai-api.svg" alt="OpenAI API" height="32"><br>
-      <a href="https://george.vrancianu.eu/projects/pantrygator/">Case study</a> · <a href="https://github.com/george-vrancianu/pocketPantry">Repository</a>
+      <a href="https://george.vrancianu.eu/projects/pantrygator/">Case study</a> · <a href="https://github.com/george-vrancianu/PantryGator">Repository</a>
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/george-vrancianu/BreachBall">BreachBall</a></b><br>
